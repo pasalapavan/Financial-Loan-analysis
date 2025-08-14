@@ -75,7 +75,8 @@ It enables financial institutions to monitor portfolio health, identify risk are
 ┗ 📜 bank_loan_dashboard.png
 
 ---
-📌 Future Enhancements
+
+##📌 Future Enhancements
 
 Live connection to a bank loan database for automated updates.
 
