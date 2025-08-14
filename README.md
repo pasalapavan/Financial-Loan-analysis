@@ -1,6 +1,5 @@
 # 💰 Bank Loan Report – Summary Dashboard
 
-![Bank Loan Dashboard](assets/bank_loan_dashboard.png)
 
 ## 📌 Overview
 The **Bank Loan Report Dashboard** provides a detailed view of loan application performance, funding amounts, repayments, and loan quality metrics.  
